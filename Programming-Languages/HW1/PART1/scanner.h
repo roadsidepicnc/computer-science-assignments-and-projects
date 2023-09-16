@@ -1,0 +1,35 @@
+#define KW_AND 0
+#define KW_OR 1
+#define KW_NOT 2
+#define KW_EQUAL 3
+#define KW_LESS 4
+#define KW_NIL 5
+#define KW_LIST 6
+#define KW_APPEND 7
+#define KW_CONCAT 8
+#define KW_SET 9
+#define KW_DEFFUN 10
+#define KW_FOR 11
+#define KW_IF 12
+#define KW_EXIT 13
+#define KW_LOAD 14
+#define KW_DISP 15
+#define KW_TRUE 16
+#define KW_FALSE 17
+
+#define OP_PLUS 18
+#define OP_MINUS 19
+#define OP_DIV 20
+#define OP_DIV2 21
+#define OP_MULT 22
+#define OP_OP 23 
+#define OP_CP 24
+#define OP_DBLMULT 25 
+#define OP_OC 26 
+#define OP_CC 27 
+#define OP_COMMA 28
+
+#define COMMENT 29
+#define VALUE 30
+#define IDENTIFIER 31
+#define ERROR 32
