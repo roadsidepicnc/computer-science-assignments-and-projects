@@ -1,0 +1,30 @@
+Sat Apr 16 05:29:02 2022
+Server Y (x.txt, p=1, t = 3) started
+Sat Apr 16 05:29:02 2022
+Instantiated server Z
+Sat Apr 16 05:29:02 2022
+Z: Server Z(x.txt, t = 3, r = 1) started
+Sat Apr 16 05:29:09 2022
+Worker PID7734 is handling client PID7737 , matrix size is 4x4 pool busy 1/1
+Sat Apr 16 05:29:09 2022
+Worker PID7734 responding to client PID7737 : the matrix IS invertible. 
+Sat Apr 16 05:29:11 2022
+Forwarding request of client PID#7738 to serverZ, matrix size 4x4 , pool busy 1/1
+Sat Apr 16 05:29:11 2022
+Z: Worker PID7735 is handling client PID7738 , matrix size is 4x4 pool busy 1/1
+Sat Apr 16 05:29:11 2022
+Worker PID7735 responding to client PID7738 : the matrix IS invertible. 
+Sat Apr 16 05:29:13 2022
+Worker PID7734 is handling client PID7739 , matrix size is 4x4 pool busy 1/1
+Sat Apr 16 05:29:13 2022
+Worker PID7734 responding to client PID7739 : the matrix IS invertible. 
+Sat Apr 16 05:29:13 2022
+Forwarding request of client PID#7740 to serverZ, matrix size 4x4 , pool busy 1/1
+Sat Apr 16 05:29:14 2022
+Z: Worker PID7735 is handling client PID7740 , matrix size is 4x4 pool busy 1/1
+Sat Apr 16 05:29:14 2022
+Worker PID7735 responding to client PID7740 : the matrix IS invertible. 
+Sat Apr 16 05:29:27 2022
+SIGINT received, terminating Z and exiting server Y. Total requests handled: 2, 2 invertible, 0 not. 2 requests were forwarded.
+Sat Apr 16 05:29:27 2022
+Z: SIGINT received, exiting server Z. Total requests handled: 2, 2 invertible, 0 not.
