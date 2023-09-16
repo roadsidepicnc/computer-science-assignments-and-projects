@@ -1,0 +1,59 @@
+Quartus II Archive log --	C:/Users/emr3s/Desktop/1901042640/Sezer_Emre_1901042640.qarlog
+
+Archive:	C:/Users/emr3s/Desktop/1901042640/Sezer_Emre_1901042640.qar
+Date:		Wed Jan 05 04:16:11 2022
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/adder.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/alu32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/alu32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/and32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/control.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/equality_checker.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/full_adder.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/half_adder.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux16x1_32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux16x1_32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux2.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux2_32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux2_64.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux2x1_3.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux4x1_1.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/mux4x1_32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/nor32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/not32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/or32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/slt.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/substractor.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_32/xor32.v
+C:/Users/emr3s/Desktop/cse331_hw4/alu_control.v
+C:/Users/emr3s/Desktop/cse331_hw4/control_unit.v
+C:/Users/emr3s/Desktop/cse331_hw4/cse331_hw4.qpf
+C:/Users/emr3s/Desktop/cse331_hw4/cse331_hw4.qsf
+C:/Users/emr3s/Desktop/cse331_hw4/db/cse331_hw4.cmp.hdb
+C:/Users/emr3s/Desktop/cse331_hw4/db/cse331_hw4.db_info
+C:/Users/emr3s/Desktop/cse331_hw4/incremental_db/compiled_partitions/cse331_hw4.db_info
+C:/Users/emr3s/Desktop/cse331_hw4/instruction_parser.v
+C:/Users/emr3s/Desktop/cse331_hw4/mini_mips32.v
+C:/Users/emr3s/Desktop/cse331_hw4/mini_mips_instruction_memory.v
+C:/Users/emr3s/Desktop/cse331_hw4/mini_mips_memory.v
+C:/Users/emr3s/Desktop/cse331_hw4/mini_mips_registers.v
+C:/Users/emr3s/Desktop/cse331_hw4/program_counter_handler.v
+C:/Users/emr3s/Desktop/cse331_hw4/sign_extender.v
+C:/Users/emr3s/Desktop/cse331_hw4/simulation/modelsim/data_memory.mem
+C:/Users/emr3s/Desktop/cse331_hw4/simulation/modelsim/instruction_memory.mem
+C:/Users/emr3s/Desktop/cse331_hw4/simulation/modelsim/registers.mem
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/alu_control_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/control_unit_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/instruction_memory_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/instruction_parser_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/memory_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/mini_mips32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/registers_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw4/testbenches/sign_extender_testbench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 48 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

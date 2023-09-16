@@ -1,0 +1,48 @@
+Quartus II Archive log --	C:/Users/emr3s/Desktop/Sezer_Emre_1901042640.qarlog
+
+Archive:	C:/Users/emr3s/Desktop/Sezer_Emre_1901042640.qar
+Date:		Sun Dec 19 20:17:33 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/emr3s/Desktop/cse331_hw3/adder.v
+C:/Users/emr3s/Desktop/cse331_hw3/alu32.v
+C:/Users/emr3s/Desktop/cse331_hw3/and32.v
+C:/Users/emr3s/Desktop/cse331_hw3/control.v
+C:/Users/emr3s/Desktop/cse331_hw3/cse331_hw3.qpf
+C:/Users/emr3s/Desktop/cse331_hw3/cse331_hw3.qsf
+C:/Users/emr3s/Desktop/cse331_hw3/datapath.v
+C:/Users/emr3s/Desktop/cse331_hw3/db/cse331_hw3.cmp.hdb
+C:/Users/emr3s/Desktop/cse331_hw3/db/cse331_hw3.db_info
+C:/Users/emr3s/Desktop/cse331_hw3/full_adder.v
+C:/Users/emr3s/Desktop/cse331_hw3/half_adder.v
+C:/Users/emr3s/Desktop/cse331_hw3/incremental_db/compiled_partitions/cse331_hw3.db_info
+C:/Users/emr3s/Desktop/cse331_hw3/mult32.v
+C:/Users/emr3s/Desktop/cse331_hw3/mux1.v
+C:/Users/emr3s/Desktop/cse331_hw3/mux2.v
+C:/Users/emr3s/Desktop/cse331_hw3/mux2_32.v
+C:/Users/emr3s/Desktop/cse331_hw3/mux2_64.v
+C:/Users/emr3s/Desktop/cse331_hw3/mux32.v
+C:/Users/emr3s/Desktop/cse331_hw3/nor32.v
+C:/Users/emr3s/Desktop/cse331_hw3/not32.v
+C:/Users/emr3s/Desktop/cse331_hw3/or32.v
+C:/Users/emr3s/Desktop/cse331_hw3/shifter_r.v
+C:/Users/emr3s/Desktop/cse331_hw3/slt.v
+C:/Users/emr3s/Desktop/cse331_hw3/substractor.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/adder_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/alu32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/and32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/control_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/mult32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/mux32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/nor32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/or32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/slt_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/substractor_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/testbenches/xor32_testbench.v
+C:/Users/emr3s/Desktop/cse331_hw3/xor32.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 37 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
