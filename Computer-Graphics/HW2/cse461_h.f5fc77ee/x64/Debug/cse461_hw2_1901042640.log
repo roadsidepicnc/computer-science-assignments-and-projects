@@ -1,0 +1,70 @@
+﻿  main.cpp
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\main.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\main.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\main.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(55,31): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(55,31): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(55,31): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(55,31): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(55,31): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(56,31): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(56,31): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(56,31): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(56,31): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(56,31): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(57,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(57,32): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(57,32): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(57,32): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(57,32): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(58,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(58,32): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(58,32): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(58,32): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(58,32): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(61,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(61,30): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(61,30): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(61,30): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(61,30): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(62,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(62,30): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(62,30): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(62,30): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(62,30): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(67,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(67,32): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(67,32): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(67,32): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(67,32): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(68,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(68,32): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(68,32): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(68,32): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(68,32): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(70,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(70,32): warning C4244:         with
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(70,32): warning C4244:         [
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(70,32): warning C4244:             T=float
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\bounds.cpp(70,32): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\main.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\main.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cse461_hw2_1901042640.vcxproj -> C:\Users\emres\OneDrive\Desktop\cse461_hw2_1901042640\x64\Debug\cse461_hw2_1901042640.exe

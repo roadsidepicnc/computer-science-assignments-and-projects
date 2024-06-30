@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\my_vertex_shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my_vertex_shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\my_fragment_shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my_fragment_shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FC77EE-4BC9-465D-BB4E-01FA383A5183}|cse461_hw2_1901042640.vcxproj|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5FC77EE-4BC9-465D-BB4E-01FA383A5183}|cse461_hw2_1901042640.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\scene_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scene_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\bounds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bounds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lights.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\materials.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:materials.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 317,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAD4v8AAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T23:53:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "materials.cpp",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\materials.cpp",
+              "RelativeDocumentMoniker": "materials.cpp",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\materials.cpp",
+              "RelativeToolTip": "materials.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T15:13:17.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lights.cpp",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\lights.cpp",
+              "RelativeDocumentMoniker": "lights.cpp",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\lights.cpp",
+              "RelativeToolTip": "lights.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T15:05:44.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bounds.cpp",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\bounds.cpp",
+              "RelativeDocumentMoniker": "bounds.cpp",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\bounds.cpp",
+              "RelativeToolTip": "bounds.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T14:51:54.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scene_data.cpp",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\scene_data.cpp",
+              "RelativeDocumentMoniker": "scene_data.cpp",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\scene_data.cpp",
+              "RelativeToolTip": "scene_data.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAD4v0YAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T14:49:51.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "textures.cpp",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\textures.cpp",
+              "RelativeDocumentMoniker": "textures.cpp",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\textures.cpp",
+              "RelativeToolTip": "textures.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAD4v2EAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T14:48:40.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "my_vertex_shader.vs",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\my_vertex_shader.vs",
+              "RelativeDocumentMoniker": "my_vertex_shader.vs",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\my_vertex_shader.vs",
+              "RelativeToolTip": "my_vertex_shader.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T00:24:10.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "my_fragment_shader.fs",
+              "DocumentMoniker": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\my_fragment_shader.fs",
+              "RelativeDocumentMoniker": "my_fragment_shader.fs",
+              "ToolTip": "C:\\Users\\emres\\OneDrive\\Desktop\\cse461_hw2_1901042640\\my_fragment_shader.fs",
+              "RelativeToolTip": "my_fragment_shader.fs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T00:24:10.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
